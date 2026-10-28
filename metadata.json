@@ -1,0 +1,6 @@
+{
+  "name": "Dentis - Dental Clinic Landing Page",
+  "description": "Premium dental clinic website offering gentle, modern dental care, teeth whitening, orthodontics, and restorative treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
